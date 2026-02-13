@@ -61,7 +61,7 @@ https://api.businesscentral.dynamics.com/v2.0/{tenantId}/{environment}/api/sesta
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/BC-AnalyticsAPI.git
+git clone https://github.com/saestad/BC-AnalyticsAPI.git
 ```
 
 2. Open the folder in VS Code

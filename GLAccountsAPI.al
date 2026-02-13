@@ -1,4 +1,4 @@
-namespace DefaultPublisher.BCFytBI;
+namespace SteinSaestad.BCAnalyticsAPI;
 
 using Microsoft.Finance.GeneralLedger.Account;
 
