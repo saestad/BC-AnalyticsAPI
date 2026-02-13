@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "FytAnalytics",
+            "name": "BC-AnalyticsAPI Sandbox",
             "request": "launch",
             "type": "al",
             "tenant": "489cefa7-d943-4495-b847-1b9ee69b4f36",
