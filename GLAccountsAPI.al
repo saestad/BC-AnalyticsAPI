@@ -1,6 +1,12 @@
+/// <summary>
+/// TODO: Unknown SteinSaestad.
+/// </summary>
+
 namespace SteinSaestad.BCAnalyticsAPI;
 
 using Microsoft.Finance.GeneralLedger.Account;
+
+
 
 page 50101 "Sestad GL Accounts API"
 {
