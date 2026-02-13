@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BC-AnalyticsAPI Sandbox",
+            "request": "launch",
+            "type": "al",
+            "tenant": "{COMPANY TENANT ID}",
+            "environmentType": "{ENVIRONMENT TYPE}",
+            "environmentName": "{ENVIRONMENT NAME}",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
