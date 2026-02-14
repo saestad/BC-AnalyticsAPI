@@ -72,9 +72,9 @@ cp .vscode/launch.json.example .vscode/launch.json
             "name": "BC-AnalyticsAPI Sandbox",
             "request": "launch",
             "type": "al",
-            "tenant": "{COMPANY TENANT ID}",
-            "environmentType": "{ENVIRONMENT TYPE}",
-            "environmentName": "{ENVIRONMENT NAME}",
+            "tenant": "{COMPANY TENANT ID}",            // Tenant ID of the company you are connecting to
+            "environmentType": "{ENVIRONMENT TYPE}",    // "Sandbox", "Production", "OnPrem", "W1"..
+            "environmentName": "{ENVIRONMENT NAME}",    // Name of the environment that tenant is under
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": "All",
