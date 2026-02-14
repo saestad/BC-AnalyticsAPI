@@ -6,6 +6,8 @@ namespace SteinSaestad.BCAnalyticsAPI;
 
 using Microsoft.Finance.GeneralLedger.Ledger;
 using Microsoft.Finance.GeneralLedger.Account;
+using Microsoft.Finance.Dimension;
+using Microsoft.Finance.GeneralLedger.Budget;
 
 permissionset 50100 "Analytics API Access"
 {
@@ -15,8 +17,12 @@ permissionset 50100 "Analytics API Access"
     Permissions =
         tabledata "G/L Entry" = R,
         tabledata "G/L Account" = R,
+        tabledata "Dimension Set Entry" = R,
+        tabledata "G/L Budget Entry" = R,
         page "Sestad GL Accounts API" = X,
-        page "Sestad GL Entries API" = X;
+        page "Sestad GL Entries API" = X,
+        page "Sestad Dimension Set Entry API" = X,
+        page "Sestad GL Budget Entries API" = X;
 }
 
 /*
