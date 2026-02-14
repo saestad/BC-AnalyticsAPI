@@ -227,7 +227,6 @@ Breaking changes will result in a new API version (`v2.0`) while maintaining bac
 ## Author
 
 **Stein Sæstad**
-Egersund, Norway
 [saestad.no](https://saestad.no)
 
 ---
