@@ -52,8 +52,15 @@ page 50101 "Sestad GL Accounts API"
                 field(blocked; Rec.Blocked)
                 { Caption = 'Blocked'; }
 
+                field(accountSubcategoryEntryNo; Rec."Account Subcategory Entry No.")
+                { Caption = 'Account Subcategory Entry No'; }
+
+                field(accountSubcategory; Rec."Account Subcategory Descript.")
+                { Caption = 'Account Subcategory'; }
+
                 field(lastModifiedDateTime; Rec.SystemModifiedAt)
                 { Caption = 'Last Modified DateTime'; }
+
             }
         }
     }

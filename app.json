@@ -2,7 +2,7 @@
   "id": "771bd9c2-467f-4586-8d20-061603b53637",
   "name": "Analytics API by Saestad",
   "publisher": "Stein Saestad",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "Analytics-optimised API layer for Business Central reporting",
   "description": "Exposes clean, versioned API endpoints from Business Central designed for Power BI reporting and analytics pipelines. Built as the data foundation for FytBI — a modern alternative to legacy BC reporting tools.",
   "privacyStatement": "https://saestad.no/privacy",
